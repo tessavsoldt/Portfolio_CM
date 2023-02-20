@@ -13,7 +13,7 @@ For each album specifically, I want to compare the most popular song. Perhaps th
 
 <sub> If you are doing my peer review and by any chance have anything to change or note on how I describe this music, please let me know. I chose this topic as a fan and casual listener without 'real' music knowledge. <sub>
   
- ## Plot
+ ## Plot (see uploaded file plotwk8.2)
   
   I was not sure whether to only compare average values per album, or plot values values for each song, so in the plot you can see the separate songs (open circles) as well as the average per album (filled circles). I got a bit lost in all the options for visualization, they didn't seem to make the plot any more clear or informative, just more chaotic. Hopefully more practice with R and datacamp may improve my insight in data and plot features. 
   In the plot, you can see that Pretty. Odd. is the least loud and energetic, whereas Pray for the Wicked is the loudest and most energetic. Additionally almost each album seems to have a less loud and low energy song. One album has an outlier with very low loudness and energy, which I expect is the spoken introduction track to the album. The plot also shows that Vices & Virtues has the lowest average valence, while Pray for the Wicked has the highest valence. 
